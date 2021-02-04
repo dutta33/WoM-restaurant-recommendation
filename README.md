@@ -27,4 +27,4 @@ Retrieved from http://rpubs.com/LuizFelipeBrito/NLP_Text_Mining_001.
 Yelp, Inc. (2019, February 5). Yelp Dataset. 
 Retrieved from https://www.kaggle.com/yelp-dataset/yelp-dataset.  
 
-GIT_Example - https://github.com/dutta33/WoM-restaurant-recommendation/blob/master/GIT_Example.docx
+
